@@ -6,6 +6,8 @@
 
 ![silab2SLIKA](https://github.com/LjupcheD14/SI_2023_lab2_216092/assets/81088064/fc362d0a-d9c9-4c6c-a9bf-b485c88f8f01)
 
+https://drive.google.com/drive/u/1/folders/11ecytAiV3Yu2wB5kN0y8lCi1XAntDybQ
+
 ### Цикломатска комплексност
 Цикломатската комплексност на овој код е 9, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=1, па цикломатската комплексност изнесува 9.
 
